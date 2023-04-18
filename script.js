@@ -22,7 +22,7 @@ function toggleMode() {
 
     } else {
         var description = document.getElementById("nome-dev");
-        description.textContent = '@mec';
+        description.textContent = '@fermec3';
   }
 
 }
