@@ -18,7 +18,7 @@ function toggleMode() {
     //texto
     if (html.classList.contains("light")) {
     var description = document.getElementById("nome-dev");
-    description.textContent = '@orgatomic.';
+    description.textContent = '@orgatomic';
 
     } else {
         var description = document.getElementById("nome-dev");
